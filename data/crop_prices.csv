@@ -1,0 +1,45 @@
+crop,price_per_quintal,category,unit,market,state
+Tomato,2800,Vegetables,quintal,Pune APMC,Maharashtra
+Onion,1800,Vegetables,quintal,Nashik APMC,Maharashtra
+Potato,1200,Vegetables,quintal,Agra APMC,Uttar Pradesh
+Brinjal,1600,Vegetables,quintal,Hyderabad APMC,Telangana
+Cabbage,1100,Vegetables,quintal,Bangalore APMC,Karnataka
+Cauliflower,2200,Vegetables,quintal,Delhi APMC,Delhi
+Bitter Gourd,3200,Vegetables,quintal,Mumbai APMC,Maharashtra
+Capsicum,4500,Vegetables,quintal,Pune APMC,Maharashtra
+Carrot,2100,Vegetables,quintal,Ooty APMC,Tamil Nadu
+Spinach,1400,Vegetables,quintal,Delhi APMC,Delhi
+Mango,5500,Fruits,quintal,Ratnagiri APMC,Maharashtra
+Banana,2400,Fruits,quintal,Jalgaon APMC,Maharashtra
+Pomegranate,7200,Fruits,quintal,Solapur APMC,Maharashtra
+Grapes,6800,Fruits,quintal,Nashik APMC,Maharashtra
+Papaya,1900,Fruits,quintal,Aurangabad APMC,Maharashtra
+Guava,3100,Fruits,quintal,Allahabad APMC,Uttar Pradesh
+Watermelon,900,Fruits,quintal,Hyderabad APMC,Telangana
+Orange,4200,Fruits,quintal,Nagpur APMC,Maharashtra
+Apple,8500,Fruits,quintal,Shimla APMC,Himachal Pradesh
+Wheat,2200,Grains & Cereals,quintal,Indore APMC,Madhya Pradesh
+Rice (Basmati),4800,Grains & Cereals,quintal,Karnal APMC,Haryana
+Maize,1900,Grains & Cereals,quintal,Davangere APMC,Karnataka
+Jowar,2100,Grains & Cereals,quintal,Bijapur APMC,Karnataka
+Bajra,2000,Grains & Cereals,quintal,Jaipur APMC,Rajasthan
+Ragi,2400,Grains & Cereals,quintal,Chitradurga APMC,Karnataka
+Tur Dal (Pigeon Pea),6500,Pulses & Legumes,quintal,Latur APMC,Maharashtra
+Chana (Chickpea),5200,Pulses & Legumes,quintal,Indore APMC,Madhya Pradesh
+Moong Dal (Green Gram),7800,Pulses & Legumes,quintal,Nagpur APMC,Maharashtra
+Masoor Dal (Red Lentil),5600,Pulses & Legumes,quintal,Bhopal APMC,Madhya Pradesh
+Groundnut,5900,Pulses & Legumes,quintal,Rajkot APMC,Gujarat
+Turmeric,12000,Spices,quintal,Erode APMC,Tamil Nadu
+Chilli (Dry Red),14000,Spices,quintal,Guntur APMC,Andhra Pradesh
+Coriander Seeds,8500,Spices,quintal,Kota APMC,Rajasthan
+Cumin (Jeera),22000,Spices,quintal,Unjha APMC,Gujarat
+Ginger,7500,Spices,quintal,Cochin APMC,Kerala
+Garlic,5800,Spices,quintal,Madhya Pradesh APMC,Madhya Pradesh
+Pepper (Black),35000,Spices,quintal,Kochi APMC,Kerala
+Cardamom,120000,Spices,quintal,Idukki APMC,Kerala
+Sugarcane,3500,Cash Crops,quintal,Kolhapur APMC,Maharashtra
+Cotton,6800,Cash Crops,quintal,Akola APMC,Maharashtra
+Soybean,4400,Cash Crops,quintal,Indore APMC,Madhya Pradesh
+Sunflower,6200,Cash Crops,quintal,Bijapur APMC,Karnataka
+Jute,4100,Cash Crops,quintal,Kolkata APMC,West Bengal
+Tobacco,18000,Cash Crops,quintal,Guntur APMC,Andhra Pradesh
