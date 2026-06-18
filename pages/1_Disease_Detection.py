@@ -139,4 +139,4 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("**Powered by:** Google Gemini Vision AI")
-    st.markdown("**Model:** gemini-1.5-flash")
+    st.markdown("**Model:** gemini-3.5-flash")
